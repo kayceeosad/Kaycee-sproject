@@ -5,7 +5,7 @@
 }
 
 .hero{
-    background-image:linear-gradient(rgba(39, 39, 180, 0.493),rgba(27, 241, 56, 0.863)), url(./images/drum.jpg);
+    background-image:linear-gradient(rgba(39, 39, 180, 0.493),gitrgba(27, 241, 56, 0.863)), url(./images/drum.jpg);
     height: 500px;
     background-repeat: no-repeat;
     background-size: cover;
