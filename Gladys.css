@@ -1,0 +1,126 @@
+*
+.header{
+    background-color: white;
+    
+}
+
+.hero{
+    background-image:linear-gradient(rgba(39, 39, 180, 0.493),rgba(27, 241, 56, 0.863)), url(./images/drum.jpg);
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+        align-items: center;
+        justify-content: center;
+
+    h2{
+        color: white;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        
+    }
+}
+
+
+.abt222{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    margin: 40px;
+
+    
+
+    
+
+
+    
+}
+
+
+
+
+.aboutheader{
+    width: 50%;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding-top: 30px;
+        padding-left: 20px;
+        padding-bottom: 20px;
+        padding-right: 20px;
+        gap: 30px;
+
+
+        box-shadow: rgba(6, 24, 44, 0.4) 0px 0px 0px 2px, rgba(6, 24, 44, 0.65) 0px 4px 6px -1px, rgba(255, 255, 255, 0.08) 0px 1px 0px inset;
+
+    p{
+        text-align: center;
+    }
+
+}
+
+
+
+.inputsection{
+    background-color: blue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+}
+
+.inputholder{
+    
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+    gap: 20px;
+}
+
+.INPUTBOX{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    
+    
+
+
+    input,select{
+        width: 95%;
+        border-radius: 20px;
+        height: 40px;
+        outline: none;
+        border: 2px solid white;
+        
+
+    }
+
+
+
+    textarea{
+        width: 90%;
+        border-radius: 20px;
+        height: 60px;
+        outline: none;
+        border: none;
+        padding-left: 20px;
+        
+    }
+
+}
+
+.logo33{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    margin: 20px;
+}
